@@ -1,5 +1,3 @@
-var object = [thing : "blank"]
-
 function updateObjectWithKeyAndValue(object, key, value){
   var newObj = object
   newObj.[key]= value

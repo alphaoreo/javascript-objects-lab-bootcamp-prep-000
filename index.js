@@ -1,6 +1,6 @@
 function updateObjectWithKeyAndValue(object, key, value){
   var newObj = object
-  newObj[key]= value
+  newObj[key] = value
   return newObj
 }
 
